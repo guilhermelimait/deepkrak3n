@@ -1,0 +1,10 @@
+import type { RouteMatch } from './route-match';
+import type { AppPageRouteDefinition } from '../route-definitions/app-page-route-definition';
+export interface AppPageRouteMatch extends RouteMatch<AppPageRouteDefinition> {
+}
+/**
+ * Checks if the given match is an App Page route match.
+ * @param match the match to check
+ * @returns true if the match is an App Page route match, false otherwise
+ */
+export declare function isAppPageRouteMatch(match: RouteMatch): match is AppPageRouteMatch;

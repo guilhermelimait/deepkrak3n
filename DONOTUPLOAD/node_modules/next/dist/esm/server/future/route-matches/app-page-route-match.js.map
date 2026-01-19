@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../src/server/future/route-matches/app-page-route-match.ts"],"names":["RouteKind","isAppPageRouteMatch","match","definition","kind","APP_PAGE"],"mappings":"AAGA,SAASA,SAAS,QAAQ,gBAAe;AAIzC;;;;CAIC,GACD,OAAO,SAASC,oBACdC,KAAiB;IAEjB,OAAOA,MAAMC,UAAU,CAACC,IAAI,KAAKJ,UAAUK,QAAQ;AACrD"}

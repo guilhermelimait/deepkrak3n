@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/lib/chalk.ts"],"names":["chalk","process","env","NEXT_RUNTIME","NEXT_MINIMAL","require","default"],"mappings":"AAAA,IAAIA;AAEJ,IAAIC,QAAQC,GAAG,CAACC,YAAY,KAAK,UAAUF,QAAQC,GAAG,CAACE,YAAY,EAAE;IACnEJ,QAAQK,QAAQ,eAAeC,OAAO;AACxC,OAAO;IACLN,QAAQK,QAAQ;AAClB;AAEA,eAAeL,MAAK"}
