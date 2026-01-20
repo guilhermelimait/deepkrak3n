@@ -137,6 +137,23 @@ deepkrak3n is a **fully local, modern OSINT platform** for scanning and analyzin
    # Visit http://localhost:3000
    ```
 
+### Quick start (Windows)
+
+- Double-click [start.bat](start.bat) or run it from PowerShell/CMD in the repo root. It will: create `.venv`, install backend deps, install npm packages, start uvicorn, then start Next.js on port 3000.
+
+### Quick start (Linux/Codespaces)
+
+1. Make the launcher executable once:
+   ```bash
+   chmod +x run.sh
+   ```
+2. Start both backend and frontend:
+   ```bash
+   ./run.sh
+   ```
+   - Backend logs: `/tmp/deepkrak3n-backend.log`
+   - Frontend: http://localhost:3000 (exported via Codespaces port forwarding)
+
 **Tip:**  
 If your backend is not at `http://localhost:8000`, set env `NEXT_PUBLIC_API_BASE`.
 
