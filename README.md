@@ -36,6 +36,22 @@ deepkrak3n is a **fully local, modern OSINT platform** for scanning and analyzin
 
 ---
 
+## deepkrak3n images
+
+<p align="center">
+   <img src="./public/phase1.png" alt="Phase 1" width="320"/>
+   <br>
+   <img src="./public/phase2.png" alt="Phase 2" width="320"/>
+   <br>
+   <img src="./public/phase3.png" alt="Phase 3" width="320"/>
+   <br>
+   <img src="./public/phase4.png" alt="Phase 4" width="320"/>
+   <br>
+   <img src="./public/phase5.png" alt="Phase 5" width="320"/>
+</p>
+
+---
+
 ## Features & Methods
 
 - **Wide Coverage:** Scan 200+ social media, forums, code repositories, streaming sites, and more.
